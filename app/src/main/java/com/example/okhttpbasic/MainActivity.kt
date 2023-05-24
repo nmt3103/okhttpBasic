@@ -60,8 +60,7 @@ class MainActivity : AppCompatActivity() {
 
         }
 
-        println("ahihi")
-        println("six Has bug")
+        println("seven")
 
 
 
