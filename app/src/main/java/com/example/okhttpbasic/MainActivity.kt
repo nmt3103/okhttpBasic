@@ -60,7 +60,7 @@ class MainActivity : AppCompatActivity() {
 
         }
 
-        println("master")
+        println("master affter merge")
 
 
 
