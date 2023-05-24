@@ -61,6 +61,7 @@ class MainActivity : AppCompatActivity() {
         }
 
         println("Register")
+        println("Register after merger")
 
 
 
