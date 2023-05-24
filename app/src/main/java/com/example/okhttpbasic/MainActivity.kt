@@ -60,6 +60,8 @@ class MainActivity : AppCompatActivity() {
 
         }
 
+        println("Register")
+        println("Register after merger")
         println("master affter merge")
 
 
