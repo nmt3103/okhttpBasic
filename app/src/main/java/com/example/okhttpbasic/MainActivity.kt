@@ -60,7 +60,7 @@ class MainActivity : AppCompatActivity() {
 
         }
 
-        println("seven")
+        println("master")
 
 
 
